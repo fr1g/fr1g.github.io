@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fr1g.github.io/"/>
-  <updated>2020-04-07T16:46:37.115Z</updated>
+  <updated>2020-04-13T02:31:02.718Z</updated>
   <id>http://fr1g.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>new</title>
+    <link href="http://fr1g.github.io/2020/04/13/new/"/>
+    <id>http://fr1g.github.io/2020/04/13/new/</id>
+    <published>2020-04-13T02:31:02.000Z</published>
+    <updated>2020-04-13T02:31:02.718Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>toptest</title>
+    <link href="http://fr1g.github.io/2020/04/13/toptest/"/>
+    <id>http://fr1g.github.io/2020/04/13/toptest/</id>
+    <published>2020-04-13T02:27:53.000Z</published>
+    <updated>2020-04-13T02:34:03.433Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
