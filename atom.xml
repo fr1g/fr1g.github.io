@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fr1g.github.io/"/>
-  <updated>2020-04-13T03:03:11.471Z</updated>
+  <updated>2020-04-13T03:15:19.019Z</updated>
   <id>http://fr1g.github.io/</id>
   
   <author>
@@ -17,17 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>toptest</title>
+    <title>frig--Feiron Iguista是谁？</title>
     <link href="http://fr1g.github.io/2090/04/13/toptest/"/>
     <id>http://fr1g.github.io/2090/04/13/toptest/</id>
     <published>2090-04-13T02:27:53.000Z</published>
-    <updated>2020-04-13T03:03:11.471Z</updated>
+    <updated>2020-04-13T03:15:19.019Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/themes/next/source/images/emblem.jpg" alt="Emblem"></p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/themes/next/source/images/emblem.jpg&quot; alt=&quot;Emblem&quot;&gt;&lt;/p&gt;
+
+      
     
     </summary>
     
     
+    
+      <category term="介绍哒！" scheme="http://fr1g.github.io/tags/%E4%BB%8B%E7%BB%8D%E5%93%92%EF%BC%81/"/>
     
   </entry>
   
@@ -39,30 +49,6 @@
     <updated>2020-04-13T02:31:02.718Z</updated>
     
     <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://fr1g.github.io/2020/04/07/test/"/>
-    <id>http://fr1g.github.io/2020/04/07/test/</id>
-    <published>2020-04-07T07:44:29.519Z</published>
-    <updated>2020-04-07T16:46:37.115Z</updated>
-    
-    <content type="html"><![CDATA[<hr><p>title: test<br>date: 2020-04-07 15:44:29<br>tags:<br>—test</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;hr&gt;
-&lt;p&gt;title: test&lt;br&gt;date: 2020-04-07 15:44:29&lt;br&gt;tags:&lt;br&gt;—test&lt;/p&gt;
-
-      
     
     </summary>
     
