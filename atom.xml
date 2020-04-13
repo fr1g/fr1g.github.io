@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Casapagos de Feiron</title>
+  
+  <subtitle>Bienvenido!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://fr1g.github.io/"/>
+  <updated>2020-04-07T16:46:37.115Z</updated>
+  <id>http://fr1g.github.io/</id>
+  
+  <author>
+    <name>Feiron_Iguista</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://fr1g.github.io/2020/04/07/test/"/>
+    <id>http://fr1g.github.io/2020/04/07/test/</id>
+    <published>2020-04-07T07:44:29.519Z</published>
+    <updated>2020-04-07T16:46:37.115Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: test<br>date: 2020-04-07 15:44:29<br>tags:<br>—test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;title: test&lt;br&gt;date: 2020-04-07 15:44:29&lt;br&gt;tags:&lt;br&gt;—test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
